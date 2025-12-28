@@ -24,19 +24,19 @@ The app does two main things:
 
 ### 1. Browser Test - Main Page
 Here you can see the simple text response running on localhost.
-![Main Page](screenshot1.jpg)
+![Main Page](screenshots/screenshot1.jpg)
 
 ### 2. Browser Test - Greeting Page
 This is the HTML page rendered by Thymeleaf. It shows my custom "Hi there" message and the logo loaded from the static folder.
-![Greeting Page](screenshot2.jpg)
+![Greeting Page](screenshots/screenshot2.jpg)
 
 ### 3. Postman Test - Main Page
 I tested the root endpoint in Postman to make sure the status code is 200 OK and the text is correct.
-![Postman Root](Screenshot3_Postman_Root.png)
+![Postman Root](screenshots/Screenshot3_Postman_Root.png)
 
 ### 4. Postman Test - Greeting Page
 Testing the greeting endpoint in Postman shows the raw HTML code that the server sends back.
-![Postman Greeting](Screenshot4_Postman_Greeting.png)
+![Postman Greeting](screenshots/Screenshot4_Postman_Greeting.png)
 
 ---
 
